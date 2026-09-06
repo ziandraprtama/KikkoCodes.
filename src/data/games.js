@@ -401,6 +401,25 @@ export const games = [
     "Press Redeem.",
   ],
 },
+
+{
+  id: 15,
+  slug: "shindo-life",
+  name: "Shindo Life",
+  category: "roblox",
+  platform: "Roblox",
+  genre: "RPG",
+  image: "https://share.google/8qpStimy9apnF3tWx",
+  description: "Shindo Life is a Roblox RPG inspired by the Naruto universe.",
+  lastUpdated: "2026-09-06",
+  codes: [],
+  redeemGuide: [
+    "Open Shindo Life.",
+    "Open the edit menu.",
+    "Enter the redeem code.",
+    "Redeem the code."
+  ],
+},
 ]
 
 
