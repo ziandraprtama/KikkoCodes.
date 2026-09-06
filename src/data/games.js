@@ -42,7 +42,7 @@ export const games = [
     category: "roblox",
     platform: "Roblox",
     genre: "Simulator",
-    image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600&q=80",
+    image: "/images/anime-fighters-simulator.jpg",
     description:
       "Kumpulkan fighter bergaya anime, latih mereka jadi lebih kuat, dan taklukkan setiap pulau dalam simulator battle terpopuler di Roblox ini.",
     lastUpdated: "2026-09-04",
@@ -65,7 +65,7 @@ export const games = [
     category: "roblox",
     platform: "Roblox",
     genre: "Adventure",
-    image: "https://images.unsplash.com/photo-1580327344181-c1163234e5a0?w=600&q=80",
+    image: "/images/king-legacy.jpg",
     description:
       "Game bertema bajak laut ala One Piece. Latih kekuatan devil fruit, bergabung dengan crew, dan bertarung melawan bos-bos legendaris.",
     lastUpdated: "2026-08-30",
@@ -82,80 +82,12 @@ export const games = [
   },
   {
     id: 4,
-    slug: "high-sea-saga",
-    name: "High Seas Saga",
-    category: "mobile",
-    platform: "Android",
-    genre: "RPG",
-    image: "https://images.unsplash.com/photo-1601987177651-8edfe6c20009?w=600&q=80",
-    description:
-      "Bangun kapalmu, rekrut kru legendaris, dan berlayar mengarungi dunia terbuka penuh pertempuran laut dalam RPG bajak laut ini.",
-    lastUpdated: "2026-09-05",
-    codes: [
-      { code: "HSSGIFT26", reward: "5000 Gold", status: "active" },
-      { code: "CAPTAINBOOST", reward: "3x EXP Potion", status: "active" },
-      { code: "LAUNCH2025", reward: "Legendary Chest", status: "expired" },
-    ],
-    redeemGuide: [
-      "Open the game.",
-      "Open the redeem/code menu from the settings tab.",
-      "Enter the code.",
-      "Press redeem.",
-      "Claim your reward from the in-game mailbox.",
-    ],
-  },
-  {
-    id: 5,
-    slug: "genshin-impact",
-    name: "Genshin Impact",
-    category: "mobile",
-    platform: "Android / iOS",
-    genre: "Action RPG",
-    image: "https://images.unsplash.com/photo-1633265486064-086b219458ec?w=600&q=80",
-    description:
-      "Jelajahi dunia fantasi Teyvat yang luas, kumpulkan karakter elemental, dan selesaikan misi epik dalam action RPG open-world ini.",
-    lastUpdated: "2026-09-06",
-    codes: [
-      { code: "GENSHINGIFT", reward: "60 Primogems", status: "active" },
-      { code: "TRAVELERBOOST", reward: "50000 Mora", status: "active" },
-    ],
-    redeemGuide: [
-      "Open the game.",
-      "Go to Paimon Menu > Settings > Account.",
-      "Tap Redeem Code.",
-      "Enter the code and confirm.",
-      "Check your in-game mail for the reward.",
-    ],
-  },
-  {
-    id: 6,
-    slug: "mobile-legends",
-    name: "Mobile Legends: Bang Bang",
-    category: "mobile",
-    platform: "Android / iOS",
-    genre: "MOBA",
-    image: "https://images.unsplash.com/photo-1560253023-3ec5d502959f?w=600&q=80",
-    description:
-      "MOBA 5v5 tercepat di mobile. Pilih hero favoritmu, susun strategi bersama tim, dan raih kemenangan di Land of Dawn.",
-    lastUpdated: "2026-08-28",
-    codes: [
-      { code: "MLBBFAN26", reward: "Battle Points x500", status: "active" },
-    ],
-    redeemGuide: [
-      "Open the game.",
-      "Go to the Events tab.",
-      "Select Redemption Center.",
-      "Enter the code and press Confirm.",
-    ],
-  },
-  {
-    id: 7,
     slug: "pet-simulator-99",
     name: "Pet Simulator 99",
     category: "roblox",
     platform: "Roblox",
     genre: "Simulator",
-    image: "https://images.unsplash.com/photo-1591994843349-f415893b3a6b?w=600&q=80",
+    image: "/images/pet-simulator-99.jpg",
     description:
       "Kumpulkan pet-pet lucu, buka telur langka, dan naikkan kekuatanmu dalam simulator paling ramai di Roblox ini.",
     lastUpdated: "2026-09-01",
@@ -171,6 +103,7 @@ export const games = [
     ],
   },
 ]
+
 
 // ------------------------------------------------------------
 // HELPERS
