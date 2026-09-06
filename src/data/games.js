@@ -17,7 +17,7 @@ export const games = [
     category: "roblox",
     platform: "Roblox",
     genre: "Adventure",
-    image: "https://images.unsplash.com/photo-1614294148960-9aa740632117?w=600&q=80",
+    image: "/images/blox-fruits.jpg",
     description:
       "Blox Fruits adalah game petualangan bertema bajak laut di Roblox. Kumpulkan buah iblis, latih kekuatanmu, dan jelajahi lautan untuk menjadi pendekar atau bajak laut terkuat.",
     lastUpdated: "2026-09-06",
